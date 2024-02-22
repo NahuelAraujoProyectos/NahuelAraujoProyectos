@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Me llamo Nahuel Araujo</h1>
-<h3 align="center">Soy desarrollador web</h3>
+<h3 align="center">Soy Desarrollador Web</h3>
 
 - 💬 Ask me about **html, css, javascript y reactjs**
 
@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nahuel-araujo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nahuel-araujo/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
